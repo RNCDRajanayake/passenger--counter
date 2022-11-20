@@ -46,3 +46,7 @@ button{
 #save-btn{
     background:#1c7947;
 }
+
+#reset-btn{
+    background: darkred;
+}
