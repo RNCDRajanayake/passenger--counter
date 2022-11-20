@@ -28,5 +28,11 @@ function save(){
     count = 0
     
 }
+let resetEL = document.getElementById("reset-btn")
+
+function reset(){
+    saveEl.innerText = 0
+    count = 0
+}
 
 
